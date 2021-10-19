@@ -6,4 +6,3 @@ A basic TicTacToe game built by _Kinshale_ for educational purposes.
 
 1. React
 2. SCSS
-3. New line
