@@ -6,4 +6,4 @@ A basic TicTacToe game built by _Kinshale_ for educational purposes.
 
 1. React
 2. SCSS
-3. Just playing aroun
+3. Just playing around
