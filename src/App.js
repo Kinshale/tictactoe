@@ -96,7 +96,7 @@ const declareWinner = (squaresToCheck) => {
   return (
     <>
       <div class = "grid-container">
-        <div class="TicTacToeTitle"><h1>TicTacToe Branch</h1></div>
+        <div class="TicTacToeTitle"><h1>TicTacToe main</h1></div>
         <div class="Board">
           <Board squaresArr = {currentSquaresArr} handleSquareClick = {(i) => handleSquareClick(i)} nextTurn = {nextTurn} winner = {winner}/>
         </div>
