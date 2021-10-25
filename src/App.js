@@ -83,6 +83,10 @@ const declareWinner = (squaresToCheck) => {
       break;
     }
   }
+  
+  if(winner === null && squaresToCheck.every( (elem) => Boolean(elem) )) {
+    winner = "nobody"
+  }
 
   setWinner(() => {
     return winner;
